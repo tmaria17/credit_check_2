@@ -2,12 +2,12 @@
 # Questions
 
 1. What are you proud of?
-That it's almost finished?
+That it's almost finished. I also think it works but it also may not. 
 1. What do you need to improve?
 I think I need to improve readability and I would go back and put all my methods in one method. 
-flow control, single responsibility 
+flow control, single responsibility. 
 1. What questions do you still have?
-Are instance variables neccessary? 
+Are instance variables neccessary? If my test isn't passing but my method prints out the correct way in the actual file what should I do? Is it preferable to have all the methods in one method? I didn't do that but I tested it and it seemed to work fine without that. 
 # Rubric
 
 ## Functionality 3
