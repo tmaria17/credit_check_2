@@ -10,7 +10,7 @@ flow control, single responsibility.
 Are instance variables neccessary? If my test isn't passing but my method prints out the correct way in the actual file what should I do? Is it preferable to have all the methods in one method? I didn't do that but I tested it and it seemed to work fine without that. 
 # Rubric
 
-## Functionality 3
+## Functionality 2
 
 Notes:
 
