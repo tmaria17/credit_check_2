@@ -1,6 +1,7 @@
 require "./credit_check"
 require 'minitest/autorun'
 require 'minitest/pride'
+require 'pry'
 
 class CreditCheckTest < Minitest::Test
   def test_split_card_number
