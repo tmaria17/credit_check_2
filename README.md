@@ -28,7 +28,7 @@ The student(s):
 - [ x] uses methods, arguments, and return values to break code into logical components
 - [ ] creates Classes that utilize instance variables, attribute accessors, and instance methods
 
-## Design 2
+## Design 1
 
 Notes:
 
@@ -44,7 +44,7 @@ The student(s):
     * Project directory structure adheres to convention
     * A linter reports less than 5 errors
 
-## Testing 2
+## Testing 1
 
 Notes:
 
